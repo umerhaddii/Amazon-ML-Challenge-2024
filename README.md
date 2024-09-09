@@ -7,4 +7,8 @@ Welcome to the Amazon ML Challenge 24  repository by Data Decoders!
 ### Team Name: Data Decoders
 
 Team Members:
-* Umer Haddii
+* Umer Haddii (Leader)
+* Arham Rafique
+* Keerthi Subash
+* M. Mubashir Shahzad
+---
